@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nexora — Premium Luxury E-Commerce",
+  "description": "Nexora is a luxury, modern e-commerce platform featuring high-end apparel, sneakers, timepieces, bags, and accessories with seamless shopping and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
